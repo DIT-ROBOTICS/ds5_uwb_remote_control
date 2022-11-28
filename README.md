@@ -18,7 +18,7 @@ Install as submodule(recommend):
 
 Under `YOUR_WOEKSPACE/src`
 ```bash
-git submodule add git@github.com:HaoYuLiu0725/ds5_uwb_remote_control.git
+git submodule add git@github.com:DIT-ROBOTICS/ds5_uwb_remote_control.git
 git submodule update --init --recursive
 ```
 
